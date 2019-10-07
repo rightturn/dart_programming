@@ -1,0 +1,8 @@
+name: Dart_Overview
+version: 1.2.3
+description: >-
+  Basic dart code examples
+author: Nadeem Abbas Shah <rightwaywrongturn@gmail.com>
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
